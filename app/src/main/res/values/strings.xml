@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="ozu_er_foroz">
+        <item>১. সমস্ত মুখমন্ডল কপালের উপরিভাগের চুলের গোড়া হইতে থুতনী পর্যন্ত
+        এক কর্নের লতি থেকে অন্য কর্নের লতি পর্যন্ত ধৌত করা।
+</item>
+<item>২.উভয় হাত কনুইসহ ধৌত করা।</item>
+<item>৩.চারভাগের একভাগ মাথা মাসেহ করা </item>
+<item>৪.উভয় পা টাখনু গিরা সহকারে ধৌত করা ।</item>
+
+    </string-array>
+</resources>
